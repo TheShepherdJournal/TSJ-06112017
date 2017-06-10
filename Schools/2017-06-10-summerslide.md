@@ -6,6 +6,9 @@ permalink: /how-to-avoid-the summer-slide/
 source-id: 18WDnMXbxhfMGCRsBLsXfJWi-sSjYnur5ezEUEx1gpjU
 published: true
 ---
+
+# How to Avoid the Summer Slide
+
 **Shepherd Middle School:** Dear Parents, Guardians, and Students,Without taking away the fun of summertime, what are some strategies we can use to avoid the "summer slide?"We are all happy that the children have a break from busy school days, but we also want to avoid the summer slide. The summer slide happens when our students lose some of the academic skills and learning that they gained during the school year due to the absence of quality learning activities during summer break. As the old saying goes, “Use it, or lose it.” We all want our students to be at their “Bluejay Best” when they come back to school in the fall!Here are our tips to avoid the summer slide:Math- keep your skills sharp by practicing math facts, playing logic games/puzzles, or utilize one of the web resources listed below: 
 
 * [mobymax.com](https://l.facebook.com/l.php?u=http%3A%2F%2Fmobymax.com%2F&h=ATMpcm0a8xd9PpWGHcDvTP2ZpkWrhpA6MnpUVab6lRyqTlqh29B79jACPGurA2WyrCOlBWoJ5pDFvdHolGr8rsMQuT2PZ1Rcl1Qlz2ZVKCaIhsyrp3sLk4fTib4LBwwlf4NK0ejBV9-kMVHagIsb_w&enc=AZObT5l36KMm5VuwHO_c3xrN-8rPEgt2trCw-usfuGcWy3INiZ2VSbgB3kvCJUxg5BXiDMhZ9H-O7Swz6bnkbq2uKHDUc7AeZhfPpCxsYG0nrXMamMenc71EH_Ec4JcG-qg5bIGU33UL-7Ld_b7JGiaqBcHOmiUKW4Y6kE1jmWO32wrEyP8w5MYaFBG0Z51kCtVC7SKkTXIDWkQ4GslU7tfL&s=1)
