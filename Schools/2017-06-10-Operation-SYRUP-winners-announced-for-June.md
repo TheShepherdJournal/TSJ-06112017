@@ -6,7 +6,7 @@ permalink: /operation-syrup-winners-announced-for-june/
 source-id: 1FEE_Drv4-rrE66NS86hgZ_At9X8k8KzU9RIVBkU1CxA
 published: true
 ---
-![image alt text](/public/pHkS8CUFjD55GevJwqiQ_img_0.png)
+![image alt text](../public/pHkS8CUFjD55GevJwqiQ_img_0.png)
 
 # Operation SYRUP winners announced for June
 
