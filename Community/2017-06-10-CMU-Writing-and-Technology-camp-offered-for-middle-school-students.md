@@ -6,6 +6,8 @@ permalink: /cmu-writing-and-technology-camp-offered-for-middle-school-students/
 source-id: 1Js9r6QkWNXWV3nwn4RDQymHi13uiJH2gcm-l5GlpbIo
 published: true
 ---
+# CMU Writing and Technology Camp offered for middle school students
+
 Please see the attached CMU Writing Camp opportunity for middle school students. The cost is $100 with partial scholarships available. Please see the attached flier for details if you are interested.
 
 ![image alt text](/public/IY7RAi1umtNjDsfEPut1JQ_img_0.png)
