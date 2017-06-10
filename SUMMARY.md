@@ -5,6 +5,7 @@
 ## June 11, 2017
 
 * [Schools](Schools/README.md)
+* [Community](Community/README.md)
 
 ## Schools
 * [CMU Writing and Technology camp offered for middle school students](2017-06-10-CMU-Writing-and-Technology-camp-offered-for-middle-school-students.md)
