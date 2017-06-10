@@ -1,6 +1,6 @@
 # Contents
 
-* [Introduction](README.md)
+* [Cover](README.md)
 
 ## Schools
 
