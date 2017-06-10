@@ -8,7 +8,7 @@ published: true
 ---
 Please see the attached CMU Writing Camp opportunity for middle school students. The cost is $100 with partial scholarships available. Please see the attached flier for details if you are interested.
 
-![image alt text]({{ site.url }}/public/IY7RAi1umtNjDsfEPut1JQ_img_0.png)
+![image alt text](/public/IY7RAi1umtNjDsfEPut1JQ_img_0.png)
 
 via Tumblr [http://ift.tt/2rVA4cg](http://ift.tt/2rVA4cg)
 
