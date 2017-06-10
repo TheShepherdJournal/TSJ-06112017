@@ -14,3 +14,5 @@ The Shepherd Area Historical Society will be hosting an Ice Cream Social on July
 
 Donations are welcomed. Remember to bring lawn chairs so that you can feel comfortable while enjoying the desserts and the music.
 
+*For more information, join the **[Facebook Even*t](https://www.facebook.com/events/1389978637748781/?acontext=%7B%22ref%22%3A%223%22%2C%22ref_newsfeed_story_type%22%3A%22regular%22%2C%22feed_story_type%22%3A%22117%22%2C%22action_history%22%3A%22null%22%7D)* or contact** Jon Morgan, Shepherd Area Historical Society Vice President, at **[editor@shepherdhistory.or*g](mailto:editor@shepherdhistory.org)*.*
+
