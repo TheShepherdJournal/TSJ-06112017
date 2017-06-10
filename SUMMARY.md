@@ -11,7 +11,7 @@
 
 ## Community
 
-* [2017-06-10-Shepherd-Area-Historical-Society-Ice-Cream-Social-to-take-place-on-July-10.md](2017-06-10-Shepherd-Area-Historical-Society-Ice-Cream-Social-to-take-place-on-July-10.md)
+* [Shepherd Area Historical Society Ice Cream Social to take place on July 10](2017-06-10-Shepherd-Area-Historical-Society-Ice-Cream-Social-to-take-place-on-July-10.md)
 * 
 
 
