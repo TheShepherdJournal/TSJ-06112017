@@ -6,7 +6,7 @@ permalink: /shepherd-community-farm-to-table-dinner-planned-for-august-10/
 source-id: 1s9wx7l32R52vqs7CzvwsIcoyLwnjcMs98aDJ9X9P9Oo
 published: true
 ---
-![image alt text](../public/BP1icSlc8jsAadyygDhiOg_img_0.png)
+![](public/farmtotable.png)
 
 Tickets for the First Annual Shepherd Community Farm to Table event will go on sale June 16 and cost $25. Tickets can be purchased from Mitchell's Gourmet Deli & Market in Shepherd, or from one of the following Shepherd Community Farm to Table volunteers:
 
