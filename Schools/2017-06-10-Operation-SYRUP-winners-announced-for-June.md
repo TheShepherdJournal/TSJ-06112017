@@ -8,7 +8,7 @@ published: true
 ---
 ![image alt text](/public/pHkS8CUFjD55GevJwqiQ_img_0.png)
 
-<title>{{title}}</title>
+# Operation SYRUP winners announced for June
 
 **Shepherd Middle School:** Congratulations to this month's operation SYRUP winners! "SYRUP" stands for Shepherd Youth Reaching Unlimited Potential. These students have shown positive character traits such as helpfulness, acceptance, kindness and encouragement.Front row L-R: Brooke Faber, Layne Alexander, Emmaline Cluley and Joel Bendele.Back row L-R: Alex Wright, Andrew Peacock, Craig Shanteau, Olivia Prussner, Karlie Misenhelder and Emily Bunker.
 
