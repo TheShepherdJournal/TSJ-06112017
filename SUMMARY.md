@@ -11,4 +11,5 @@
 * [SYRUP Winners](Schools/2017-06-10-Operation-SYRUP-winners-announced-for-June.md)
 * [SMS Perfect Attendance](Schools/2017-06-10-SMS-honors-students-for-attendance.md)
 * [Avoiding the Summer Slide](Schools/2017-06-10-summerslide.md)
+* [Volleyball and Cross Country News](Schools/2017-06-11-Volleyball-and-Cross-Country-News.md)
 
