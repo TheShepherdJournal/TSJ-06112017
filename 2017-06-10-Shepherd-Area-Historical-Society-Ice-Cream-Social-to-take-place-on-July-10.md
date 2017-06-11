@@ -6,7 +6,7 @@ permalink: /shepherd-area-historical-society-ice-cream-social-to-take-place-on-j
 source-id: 1gwghJz_t1Xtg7rNUDTxrTKDHT9v2WV7ZmzNkI9Q4CTA
 published: true
 ---
-#     
+#  Shepherd Area Historical Society Ice Cream Social to take place on July 10   
 
 ![image alt text](/public/uPIILBaRSobV7XGKg5nfHg_img_0.jpg)
 
